@@ -2,6 +2,12 @@
     box-sizing: border-box;
 }
 
+body {
+    background: linear-gradient(0deg, #52aafd, #ffaef1);
+    min-height: 100vh;
+    margin: 0;
+}
+
 .Form {
     border: 3px solid #222;
     padding: 30px;
